@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints
+
+# Mac
+.DS_Store
+
+# Outputs grandes
+outputs/figures/*.png
+outputs/tables/*.csv
+
+# Entornos
+venv/
+.env
